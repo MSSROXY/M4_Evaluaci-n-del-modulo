@@ -1,0 +1,2 @@
+Libro | Cien años de soledad | Gabriel Garcia Marquez | 1967 | disponible
+LibroDigital | Harry Potter | JK Rowling | 1997 | disponible | PDF
